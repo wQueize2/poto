@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "collab_mod:blocks/collab_mod",
+    "up": "collab_mod:blocks/collab_mod",
+    "north": "collab_mod:blocks/collab_mod",
+    "east": "collab_mod:blocks/collab_mod",
+    "south": "collab_mod:blocks/collab_mod",
+    "west": "collab_mod:blocks/collab_mod",
+    "particle": "collab_mod:blocks/collab_mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "collab_mod:block/collabblock"
+    }
+  }
+}
